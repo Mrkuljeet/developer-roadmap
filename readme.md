@@ -165,6 +165,4 @@ pnpm dev
    <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
  </a>
 
-## License
 
-Have a look at the [license file](./license) for details
