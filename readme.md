@@ -143,11 +143,6 @@ pnpm add @roadmapsh/editor@npm:@roadmapsh/dummy-editor -w
 pnpm install
 ```
 
-Run the development server with:
-
-```bash
-pnpm dev
-```
 
 ## Contribution
 
